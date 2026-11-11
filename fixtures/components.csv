@@ -1,0 +1,5 @@
+package_version,component_key,category,numerator,denominator
+p1,a-book,book,2,1
+p1,b-tea,tea,1,1
+p2,a-book,book,1,1
+p2,b-tea,tea,1,1
